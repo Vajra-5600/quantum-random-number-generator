@@ -1,0 +1,4 @@
+qiskit
+scipy
+matplotlib
+pandas
